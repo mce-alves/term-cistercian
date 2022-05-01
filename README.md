@@ -3,7 +3,9 @@ Draw cistercian representation of numbers in the terminal.
 
 ---
 
-### Referance:
+### Reference:
+
+<img src="https://www.zmescience.com/mrf4u/statics/i/ps/cdn.zmescience.com/wp-content/uploads/2021/01/cistercian_numbers.jpg?width=1200&enable=upscale" alt="cistercian_image" width="200"/>
 
 ![cistercian_image](https://www.zmescience.com/mrf4u/statics/i/ps/cdn.zmescience.com/wp-content/uploads/2021/01/cistercian_numbers.jpg?width=1200&enable=upscale)
 
