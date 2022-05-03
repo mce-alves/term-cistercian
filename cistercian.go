@@ -164,7 +164,7 @@ func (c *Cistercian) combine(c2 Cistercian) {
 // Main function to convert an integer between [0, 9999] to its Cistercian representation
 func Convert(number int) Cistercian {
 	if number < 0 || number > 9999 {
-		panic(errors.New("Function <Convert> received a number outside of valid Cistercian range."))
+		panic(errors.New("function <convert> received a number outside of valid cistercian range"))
 	}
 
 	cistercians := create_base_cistercians()
